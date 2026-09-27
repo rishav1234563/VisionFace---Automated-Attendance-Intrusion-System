@@ -1,0 +1,6 @@
+{
+  "name": "VisionFace - Automated Attendance & Intrusion System",
+  "description": "Streamlit-inspired facial recognition attendance tracker and perimeter intrusion detection platform with OpenCV computer vision and persistent database logging.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
